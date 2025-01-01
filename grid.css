@@ -1,0 +1,12 @@
+.container{
+    background-color: blue;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+}
+div{
+    background-color: rgb(226, 219, 219);
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 30px;
+    text-align: center;
+}

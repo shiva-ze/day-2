@@ -1,0 +1,24 @@
+.relative{
+    background-color: rgb(255, 200, 47);
+    padding: 10px;
+    position:relative;
+}
+.absolute{
+background-color: greenyellow;
+padding: 10px;
+position: absolute;
+} */
+.relative {
+    width: 500px;
+    height: 500px;
+    background-color: rgb(194, 188, 172);
+    padding: 10px;
+    position: relative; 
+}
+.absolute {
+    background-color: rgb(201, 219, 172);
+    padding: 10px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
